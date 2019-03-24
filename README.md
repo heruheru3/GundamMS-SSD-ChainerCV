@@ -40,9 +40,15 @@ https://drive.google.com/drive/folders/1L3KyEe_bc9LaFUmayfehCJ6qO35iupkj
 
 [gundam_ms_ssd.ipynb](gundam_ms_ssd.ipynb)
 
+1. input image in test_image dir.
+2. run
+
 ### Web camera
 
 [gundam_ms_ssd_webcam.ipynb](gundam_ms_ssd_webcam.ipynb)
+
+1. connect usb webcamera to pc.
+2. run
 
 ## Contact
 
