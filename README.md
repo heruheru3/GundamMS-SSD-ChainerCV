@@ -10,9 +10,7 @@ Supported frameworks are Chainer and ChainerCV.
 * [ChainerCV](https://github.com/chainer/chainercv)
 
 ## Samples
-<img src="output_image/sd-gundam.jpg" height="200">
-<img src="output_image/gundam_odaiba.jpg" height="200">
-<img src="output_image/gundam_v.jpg" height="200">
+![sample image](output_image/sd-gundam.jpg)
 
 ## Mobile Suits labels
 
@@ -35,7 +33,7 @@ Supported frameworks are Chainer and ChainerCV.
 
 ## Usage
 
-First, Downloading Pre-trained model file from my google-drive, and put it in root directory.  
+First, Download Pre-trained model file from my google-drive, and put it in root directory.  
 https://drive.google.com/drive/folders/1L3KyEe_bc9LaFUmayfehCJ6qO35iupkj
 
 ### Single image file
